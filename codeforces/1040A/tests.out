@@ -1,0 +1,13 @@
+101
+
+-1
+
+0
+
+2
+
+----
+Note
+In the first sample, the cheapest way to obtain palindromic colors is to buy a black suit for the third from left dancer and a white suit for the rightmost dancer.
+In the second sample, the leftmost dancer's suit already differs from the rightmost dancer's suit so there is no way to obtain the desired coloring.
+In the third sample, all suits are already bought and their colors form a palindrome.

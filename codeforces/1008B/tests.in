@@ -1,0 +1,13 @@
+3
+3 4
+4 6
+3 5
+
+2
+3 4
+5 5
+
+----
+Note
+In the first test, you can rotate the second and the third rectangles so that the heights will be [4, 4, 3].
+In the second test, there is no way the second rectangle will be not higher than the first one.
